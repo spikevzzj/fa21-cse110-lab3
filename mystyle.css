@@ -37,3 +37,12 @@ ul{
     padding-bottom: 0.5em;
 }
 
+#new-topics {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1pc 5pc 1pc 5pc;
+    border-style:groove;
+    border-color:blueviolet;
+    border-radius: 3vw;
+    border-width: 0.2vmax;
+}
+
