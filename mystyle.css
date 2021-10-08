@@ -69,3 +69,26 @@ a:link{
 a:active{
     color: green;
 }
+
+strong.con1, strong.con2, strong.con3{
+    display:block;
+}
+
+p.ex1, p.ex2{
+    display:inline;
+}
+
+.flex-container{
+    display:flex;
+    flex-flow: column;
+    flex-basis:auto;
+    align-self: center;
+}
+
+.flex-container > div{
+    text-align: center;
+    background-color:grey;
+    margin:5px;
+    padding:5px;
+    font-size:30px;
+}
