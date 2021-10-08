@@ -8,4 +8,18 @@ assignees: spikevzzj
 ---
 
 - modify index.md
-- style index,md using css
+- style index
+- comment
+- color
+- background color
+- unit
+- box model
+- text
+- display
+- sizing
+- position
+- pseudo-class
+- layouts
+- responsiveness
+- fonts
+- css selectors
