@@ -54,4 +54,18 @@ ul{
     min-width:auto;
 }
 
+a:hover{
+    background-color:white;
+}
 
+a:visited{
+    color:red;
+}
+
+a:link{
+    color:blue;
+}
+
+a:active{
+    color: green;
+}
