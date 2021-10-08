@@ -17,3 +17,11 @@ ul{
     margin-bottom: 10px;
 }
 
+#attendence-list {
+    color:hsl(180, 50%, 50%);
+    position: static;
+    margin: auto;
+}
+
+
+
