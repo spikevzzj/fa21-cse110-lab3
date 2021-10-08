@@ -111,3 +111,26 @@ p.ex1, p.ex2{
         background-color: lightgreen; /*ugly*/
     }
 }
+
+input[type = text]{
+    display:block;
+    background-color: pink;
+}
+
+details p{
+    font-weight: 1000;
+    background-color: azure;
+    border-style: dashed;
+}
+
+ol + h4{
+    background-color:red;
+}
+
+div ~ div{
+    border-style: double;
+}
+
+div.rendering{
+    border-color: brown;
+}
