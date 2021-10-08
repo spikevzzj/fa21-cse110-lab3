@@ -46,3 +46,12 @@ ul{
     border-width: 0.2vmax;
 }
 
+#history, #geometry{
+    border: 1px dashed green;
+    height:auto;
+    width: auto;
+    max-width:fit-content;
+    min-width:auto;
+}
+
+
