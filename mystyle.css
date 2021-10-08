@@ -2,6 +2,7 @@
 /* background color of whole page*/
 * {
     background-color: antiquewhite;
+    font-style: italic;
 }
 
 /* decorate title Summary*/
@@ -24,4 +25,15 @@ ul{
 }
 
 
+.top-left{
+    color:red;
+}
+
+#previous-topics{
+    margin: 1cm 1cm 1cm 1cm;
+    padding-top: 0.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.5em;
+}
 
