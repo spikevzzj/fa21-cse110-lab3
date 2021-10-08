@@ -1,3 +1,12 @@
+
+/* background color of whole page*/
 * {
     background-color: antiquewhite;
 }
+
+/* decorate title Summary*/
+h2 {
+    text-decoration:underline;
+    color: #0414f1;
+}
+
